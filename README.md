@@ -15,3 +15,9 @@ The application generates cool-sounding names, such as "newstay", "lightstream",
 
 * Dislike
 * View history + like/dislike on it
+
+![image](https://user-images.githubusercontent.com/106768273/232719196-d21b169a-2c3f-445d-bdc3-bca1771bd8a7.png)
+
+![image](https://user-images.githubusercontent.com/106768273/232719382-a944895f-a6bd-403a-b07f-f14426320a2f.png)
+
+![image](https://user-images.githubusercontent.com/106768273/232719480-35663057-1d0e-46ca-a742-5532d1f3549c.png)
